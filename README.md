@@ -4,6 +4,6 @@
 2、[迁移学习 Transfer Learning](https://github.com/jindongwang/transferlearning)  
    &ensp;&ensp; May be it is the most complete repository about transfer learning.  
 3、[MICCAI 2019 Open Source Papers](https://github.com/JunMa11/MICCAI-OpenSourcePapers?tdsourcetag=s_pctim_aiomsg)  
-   &emsp; The author compiled the open source papers of the 2019 MICCAI Conference.
+   &emsp; The author compiled the open source papers of the 2019 MICCAI Conference.   
 4、[awesome-gcn](https://github.com/Jiakui/awesome-gcn)  
    &emsp; The author collect the Graph Convolutional Neural Network(GCN)、Graph Attention Networks(GAT) and related other resources.
