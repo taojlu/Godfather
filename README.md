@@ -6,6 +6,6 @@
 3、[MICCAI 2019 Open Source Papers](https://github.com/JunMa11/MICCAI-OpenSourcePapers?tdsourcetag=s_pctim_aiomsg)  
    &emsp; The author compiled the open source papers of the 2019 MICCAI Conference.   
 4、[awesome-gcn](https://github.com/Jiakui/awesome-gcn)  
-   &emsp; The author collect the Graph Convolutional Neural Network(GCN)、Graph Attention Networks(GAT) and related other resources.
+   &emsp; The author collect the Graph Convolutional Neural Network(GCN)、Graph Attention Networks(GAT) and related other resources.  
 5、[SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg)    
-   &emsp; State-of-the-art medical image segmentation methods based on various challenges! (Updated 2020)    
+   &emsp; State-of-the-art medical image segmentation methods based on various challenges! (Updated 2020).    
