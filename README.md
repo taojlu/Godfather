@@ -12,5 +12,8 @@ Here I have collected various machine learning branch papers summarized by bigwi
 5、[SOTA-MedSeg](https://github.com/JunMa11/SOTA-MedSeg)    
    &emsp; State-of-the-art medical image segmentation methods based on various challenges! (Updated 2020).      
 6、[AdversarialNets Papers](https://github.com/zhangqianhui/AdversarialNetsPapers)  
-   &emsp; Awesome papers about Generative Adversarial Networks. Majority of papers are related to Image Translation.
+   &emsp; Awesome papers about Generative Adversarial Networks. Majority of papers are related to Image Translation.    
+7、[Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)    
+   &emsp;  This is the first list of deep learning papers on medical applications.   
+   
    
