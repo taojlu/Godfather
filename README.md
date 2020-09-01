@@ -16,5 +16,6 @@ Here I have collected various machine learning branch papers summarized by bigwi
 7、[Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)    
    &emsp;  This is the first list of deep learning papers on medical applications.       
 8、[AlphaTree-graphic-deep-neural-network](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network)    
-   &emsp; The AI Rodamap includes Machine Learning、Deep Learning、GAN、GNN、NLP and other books on the development of big data, With massive source code.  
+   &emsp; The AI Rodamap includes Machine Learning、Deep Learning、GAN、GNN、NLP and other books on the development of big data, With   
+   &emsp; massive source code.  
    
