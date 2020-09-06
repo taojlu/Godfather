@@ -23,4 +23,7 @@ Here I have collected various machine learning branch papers summarized by bigwi
    &emsp; Deep Learning Papers on Medical Image Analysis.  
 10、[Deep Learning in Medical Imaging and Medical Image Analysis](https://github.com/shawnyuen/DeepLearningInMedicalImagingAndMedicalImageAnalysis)  
    &emsp; Deep Learning in Medical Imaging Survey.  
+11、[Loss functions for image segmentation](https://github.com/JunMa11/SegLoss)  
+   &emsp; A collection of loss functions for medical image segmentation  
+   
    
